@@ -1,0 +1,21 @@
+{
+    "name": "mellow-yellow",
+    "displayName": "mellow-yellow",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mellow Yellow",
+                "uiTheme": "vs",
+                "path": "./themes/Mellow Yellow-color-theme.json"
+            }
+        ]
+    }
+}
